@@ -47,3 +47,4 @@ def get_min_city_chicken_distance(n, m, city_map):
 
 # 출력
 print(get_min_city_chicken_distance(n, m, city_map))  # 5 가 반환되어야 합니다!
+print("hihihi")
