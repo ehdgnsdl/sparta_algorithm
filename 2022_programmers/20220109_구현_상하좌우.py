@@ -1,4 +1,4 @@
-# N을 입력 받기
+# N을 입력 받기 aa
 n = int(input())
 x, y = 1, 1
 plans = input().split()
