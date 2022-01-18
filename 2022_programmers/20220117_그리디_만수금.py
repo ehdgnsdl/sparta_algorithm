@@ -8,7 +8,7 @@ for x in b:
     if target < x:
         break
     target += x
-    
+
 
 print(target)
 
