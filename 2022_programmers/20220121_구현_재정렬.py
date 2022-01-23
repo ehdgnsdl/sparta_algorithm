@@ -1,6 +1,6 @@
 data = input()
-result = []
 value = 0
+result = []
 
 # 문자를 하나씩 확인하며
 for x in data:
